@@ -28,6 +28,7 @@ It’s been (and still is) **hard**, but from time to time I get that **“Aha�
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 
+
 ----
 
 ---
