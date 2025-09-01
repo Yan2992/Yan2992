@@ -69,8 +69,6 @@ They are my world 🌎. Just by existing, they keep me sane, entertained, and in
 
 Now, I can proudly tell the old me: **I’m finally where I need to be.** I found my flow: This is what keeps my brain firing on all cylinders 🚀.  
 
-----
-
 ---
 
 ### 📫 Connect with me
