@@ -57,7 +57,7 @@ They are my world 🌎. Just by existing, they keep me sane, entertained, and in
 
 ## 🏋️‍♂️ High Energy Mode
 
-<p>What do I do in my free time you ask: I do <strong>CrossFit</strong> and I’m <strong>very active</strong>—like, 10 coffees active.</p>
+<p>What do I do in my free time you ask: <strong>CrossFit</strong> and I’m <strong>very active</strong>—like, 10 coffees active.</p>
 
 <p>I have so much energy I could power an <strong>ancient 90s desktop computer</strong> with sheer vibes alone.</p>
 
@@ -67,7 +67,7 @@ They are my world 🌎. Just by existing, they keep me sane, entertained, and in
 
 2-3 years ago, the old me would have said: *“Nah, man, learning this stuff is boring. Play video games, go out, have fun.”*  
 
-Now, I can proudly tell the old me: **I’m finally where I need to be.** I found my flow: **solving challenges**, whether coding, puzzles, or life. This is what keeps my brain firing on all cylinders 🚀.  
+Now, I can proudly tell the old me: **I’m finally where I need to be.** I found my flow: This is what keeps my brain firing on all cylinders 🚀.  
 
 ----
 
