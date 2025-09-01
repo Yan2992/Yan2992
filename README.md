@@ -4,11 +4,23 @@
 
 I started learning to code in **2025** on my own because I wanted to **change careers and start making things that really matter**. I love a good challenge 💡, and I realized I knew how to do many things, but didn’t have something I was truly *good at*. So, I thought: why not try software engineering?  
 
-It’s been (and still is) **hard**, but from time to time I get that **“Aha” moment**, and that’s the high I live for in this industry—the moment your brain connects the dots after weeks of feeling like a dumb dumb 🤯. That feeling? Priceless.
+<p>It’s been
+<strong>hard</strong>, 
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHEwdG4wc3FqZW1icWczbzV4MDZqdHV0bm44dWdncGZrOXh4ZnBibiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S7u66urzxc2J2/giphy.gif" alt="Hard Work" width="150" style="vertical-align:middle;">  
+but from time to time I get that 
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDV0bGFwdXRxZzBpZTNrc3Fsc25ncHkwNGUzb3Mwcm90dXI2NTJlbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bQtUQp1wRZIUujzJ7E/giphy.gif" alt="Aha Moment" width="150" style="vertical-align:middle;"> 
+and that’s the high I live for! The moment your brain connects the dots after weeks of feeling like a dumb dumb. That feeling? Priceless.</p>
+
+
+
+
+
 
 ----
 
 ## 💻 Tech Stack
+
+Here are some of the tech I worked with and some if not most still learning, and loving it! 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -28,9 +40,6 @@ It’s been (and still is) **hard**, but from time to time I get that **“Aha�
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 
-
-----
-
 ---
 
 ## 😸 I'm a Cat Dad, and a Snake Whisperer 🐍
@@ -48,10 +57,9 @@ They are my world 🌎. Just by existing, they keep me sane, entertained, and in
 
 ## 🏋️‍♂️ High Energy Mode
 
-I do **CrossFit** and I’m **very active**—like, 10 coffees active ☕☕☕☕☕☕☕☕☕☕.  
-I have so much energy I could power an **ancient 90s desktop computer** 💾 with sheer vibes alone.  
+<p>What do I do in my free time you ask: I do <strong>CrossFit</strong> and I’m <strong>very active</strong>—like, 10 coffees active.</p>
 
-----
+<p>I have so much energy I could power an <strong>ancient 90s desktop computer</strong> with sheer vibes alone.</p>
 
 ---
 
@@ -68,7 +76,5 @@ Now, I can proudly tell the old me: **I’m finally where I need to be.** I foun
 ### 📫 Connect with me
 
 - GitHub: [@Yan2992]([https://github.com/yourusername](https://github.com/Yan2992))
-- Linkedin: (https://www.linkedin.com/in/yan-bulavintsev/)
+- Linkedin: https://www.linkedin.com/in/yan-bulavintsev/
 - Portfolio: Work in progress... 😁
-
-----
