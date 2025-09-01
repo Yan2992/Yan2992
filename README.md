@@ -35,7 +35,7 @@ It’s been (and still is) **hard**, but from time to time I get that **“Aha�
 
 ## 😸 I'm a Cat Dad, and a Snake Whisperer 🐍
 
-I love my **two black cats** - **Magic** and **Mystery** 🐈‍⬛🐈‍⬛, and my **Brazilian Rainbow Boa** **Mazikeen** 🐍.  
+I love my **two black cats** - **Magic** and **Mystery** 🐈‍⬛🐈‍⬛, and my **Brazilian Rainbow Boa** -  **Mazikeen** 🐍.  
 They are my world 🌎. Just by existing, they keep me sane, entertained, and inspired.  
 
 ----
