@@ -37,7 +37,7 @@ It’s been (and still is) **hard**, but from time to time I get that **“Aha�
 I love my **two black cats** - **Magic** and **Mystery** 🐈‍⬛🐈‍⬛, and my **Brazilian Rainbow Boa** **Mazikeen** 🐍.  
 They are my world 🌎. Just by existing, they keep me sane, entertained, and inspired.  
 
-![Cyberpunk Cats](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
+----
 
 ---
 
