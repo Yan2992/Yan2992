@@ -1,12 +1,12 @@
 # Hi (Person interested in my story) 👋 I'm Yan!
 
-![Neon Cyberpunk Banner](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+---
 
 I started learning to code in **2025** on my own because I wanted to **change careers and start making things that really matter**. I love a good challenge 💡, and I realized I knew how to do many things, but didn’t have something I was truly *good at*. So, I thought: why not try software engineering?  
 
 It’s been (and still is) **hard**, but from time to time I get that **“Aha” moment**, and that’s the high I live for in this industry—the moment your brain connects the dots after weeks of feeling like a dumb dumb 🤯. That feeling? Priceless.
 
----
+----
 
 ## 💻 Tech Stack
 
@@ -28,7 +28,7 @@ It’s been (and still is) **hard**, but from time to time I get that **“Aha�
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 
-![Neon Cyberpunk Code Gif](https://media.giphy.com/media/xT0GqF69RZgghLwH6c/giphy.gif)
+----
 
 ---
 
@@ -46,7 +46,7 @@ They are my world 🌎. Just by existing, they keep me sane, entertained, and in
 I do **CrossFit** and I’m **very active**—like, 10 coffees active ☕☕☕☕☕☕☕☕☕☕.  
 I have so much energy I could power an **ancient 90s desktop computer** 💾 with sheer vibes alone.  
 
-![Retro Futuristic Gym](https://media.giphy.com/media/3orieWHTjGjBLOsH4U/giphy.gif)
+----
 
 ---
 
@@ -56,7 +56,7 @@ I have so much energy I could power an **ancient 90s desktop computer** 💾 wit
 
 Now, I can proudly tell the old me: **I’m finally where I need to be.** I found my flow: **solving challenges**, whether coding, puzzles, or life. This is what keeps my brain firing on all cylinders 🚀.  
 
-![Cyberpunk Brain GIF](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)
+----
 
 ---
 
@@ -65,4 +65,4 @@ Now, I can proudly tell the old me: **I’m finally where I need to be.** I foun
 - GitHub: [@Yan2992]([https://github.com/yourusername](https://github.com/Yan2992))  
 - Portfolio: Work in progress... 
 
-![Disco Neon Lines](https://media.giphy.com/media/xT5LMHxhOfscxPfIfm/giphy.gif)
+----
