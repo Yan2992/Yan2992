@@ -62,7 +62,8 @@ Now, I can proudly tell the old me: **I’m finally where I need to be.** I foun
 
 ### 📫 Connect with me
 
-- GitHub: [@Yan2992]([https://github.com/yourusername](https://github.com/Yan2992))  
-- Portfolio: Work in progress... 
+- GitHub: [@Yan2992]([https://github.com/yourusername](https://github.com/Yan2992))
+- Linkedin: (https://www.linkedin.com/in/yan-bulavintsev/)
+- Portfolio: Work in progress... 😁
 
 ----
