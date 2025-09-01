@@ -38,7 +38,11 @@ It’s been (and still is) **hard**, but from time to time I get that **“Aha�
 I love my **two black cats** - **Magic** and **Mystery** 🐈‍⬛🐈‍⬛, and my **Brazilian Rainbow Boa** -  **Mazikeen** 🐍.  
 They are my world 🌎. Just by existing, they keep me sane, entertained, and inspired.  
 
-----
+<div style="display: flex; gap: 10px; align-items: center;">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTU5djQxbGQ5M2Yxbmt1NWNmbmJ5Z2NyYjJrNmk0amx3ZDJpOGxvdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26xBCDvo7lLSkPTgs/giphy.gif" alt="GIF 1" width="200" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnZhaXVid3RmOHlsNTl6b2kwNW0yZzF1aGVjZTViNnd0cmdtcGRqbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GHzjMCdWK3WSgGWqhv/giphy.gif" alt="GIF 2" width="200" />
+</div>
+
 
 ---
 
