@@ -71,6 +71,12 @@ Now, I can proudly tell the old me: **I’m finally where I need to be.** I foun
 
 ---
 
+## 📚 Reading!
+
+I LOVE reading for two reasons:
+- One is to learn — every page is like a quiet conversation with someone smarter or more experienced, slipping me insights I’d never find on my own.
+- The other is to enjoy a good story — because sometimes the best escape is getting lost in a world that doesn’t exist, but somehow feels more real than my own.
+
 ### 📫 Connect with me
 
 - GitHub: [@Yan2992]([https://github.com/yourusername](https://github.com/Yan2992))
